@@ -2,7 +2,7 @@
 Docker Installation
 ====================
 
-Mozillians development environment can be installed using **docker**. This way we run Mozillians and all it's dependencies as docker containers. `Here <https://www.docker.com/whatisdocker/>`_ you can find more info about what docker is.
+Mozillians development environment can be installed using **docker**. This way we run Mozillians and all its dependencies as docker containers. `Here <https://www.docker.com/whatisdocker/>`_ you can find more info about what docker is.
 
 ************
 Dependencies
